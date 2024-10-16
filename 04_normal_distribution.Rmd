@@ -4,7 +4,7 @@ editor_options:
     wrap: 72
 ---
 
-# The Normal Distribution
+# The Normal Distribution [!!]
 
 In this chapter we are going to look at a continuous distribution called
 the Normal, or Gaussian, distribution. The Normal distribution has many
