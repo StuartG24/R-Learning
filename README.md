@@ -1,2 +1,2 @@
 # R-Learning
-For learning and experimenting with R
+Notes and code examples during my journey in learning R.
